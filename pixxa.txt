@@ -1,0 +1,6 @@
+a new file
+created by shriya s
+call swiggy
+ordered desired pizza
+pay bill
+confirm order
